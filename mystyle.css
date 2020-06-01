@@ -1,0 +1,56 @@
+.body {
+  background-color:steelblue;
+  color:mediumpurple;
+  font-family:courier;
+  font-size:200%;
+}
+.h1 {
+  background-color:mediumaquamarine;
+  font-family:impact;
+  color:teal;
+  text-align:center;
+  border:solid black 12px;
+}
+.input1 {
+  text-align:center;
+  background-color:palegreen;
+  color:navy;
+  font-size:32px;
+  width:180px;
+  height:60px;
+  border:solid blueviolet 6px;
+  position:fixed;
+  top:300px;
+  left:400px;
+}
+.input2 {
+  text-align:center;
+  background-color:palegreen;
+  color:navy;
+  font-size:32px;
+  width:180px;
+  height:60px;
+  border:solid blueviolet 6px;
+  position:fixed;
+  top:300px;
+  right:400px;
+}
+.x {
+  font-size:32px;
+  position:fixed;
+  top:300px;
+  left:655px;
+  text-align:center;
+}
+.btn {
+  text-align:center;
+  background-color:palegreen;
+  color:navy;
+  font-size:32px;
+  width:180px;
+  height:60px;
+  border:solid blueviolet 6px;
+  position:fixed;
+  top:400px;
+  left:580px;
+}
